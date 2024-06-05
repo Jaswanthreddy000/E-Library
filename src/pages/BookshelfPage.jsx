@@ -1,5 +1,6 @@
+// this is the home page
 import React from 'react';
-import "./BookSearchPage.css";
+import "./book.css";
 import { Link } from 'react-router-dom'; 
 import Navbar from '../components/Navbar/Navbar';
 

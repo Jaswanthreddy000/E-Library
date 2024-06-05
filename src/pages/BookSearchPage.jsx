@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom'; // Import Link from react-router-dom
-import './BookSearchPage.css'; // Import CSS file for styling
+import './book.css'; // Import CSS file for styling
 import Navbar from '../components/Navbar/Navbar';
 
 const BookSearchPage = ({ addToBookshelf }) => {
